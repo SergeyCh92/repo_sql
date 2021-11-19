@@ -15,4 +15,4 @@ SELECT * FROM list_performer
 WHERE name NOT LIKE '% %';
 
 SELECT name FROM list_tracks
-WHERE name iLIKE '%Мой%';
+WHERE name iLIKE '%РњРѕР№%';
